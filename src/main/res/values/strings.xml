@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectThree_A1</string>
+    <string name="detail_heading">Web Page Detail</string>
+    <string name="list_heading">Web Page Listing</string>
+</resources>
